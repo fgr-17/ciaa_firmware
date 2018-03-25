@@ -1,0 +1,6 @@
+-Dsonar.projectKey=ciaa_firmwarev2_r0.2.0_federico_roux \
+-Dsonar.organization=ingsoft2018-froux \
+-Dsonar.sources=. \
+-Dsonar.cfamily.build-wrapper-output=bw-output \
+-Dsonar.host.url=https://sonarcloud.io \
+-Dsonar.login=4c20e71b2df573367c9b4a0bfd19e7d1ba55cc11

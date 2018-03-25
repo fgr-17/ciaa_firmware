@@ -1,0 +1,7 @@
+organization=ingsoft2018-froux
+projectKey=ciaa_firmwarev2_r0.2.0_federico_roux
+serverUrl=https://sonarcloud.io
+serverVersion=7.1.0.37735
+dashboardUrl=https://sonarcloud.io/dashboard/index/ciaa_firmwarev2_r0.2.0_federico_roux
+ceTaskId=AWI2VA--i0ZusgP9FRVQ
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AWI2VA--i0ZusgP9FRVQ
